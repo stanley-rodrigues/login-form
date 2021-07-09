@@ -1,10 +1,10 @@
-# site convert reais into dollars
+# login-form
 
 
 
-<img src="./assets/layout.png" alt="layout">
-<img src="./assets/working.png" alt="layout">
->Primeira  imagem é o layout do projeto. Segunda imagem com projeto em execusão.
+<img src="./assets/login.png" alt="layout">
+<img src="./assets/tela.png" alt="layout">
+>Imagens do layout.
 
 ### Ajustes e melhorias
 
@@ -12,8 +12,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Html
 - [x] Css
-- [x] JavaScript
-- [ ] Disponibilizar ná web.
 
 ## 🤝 Colaborador
 
